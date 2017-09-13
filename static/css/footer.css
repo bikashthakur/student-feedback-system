@@ -1,0 +1,16 @@
+footer#fp-footer {
+    background-color: #fff;
+    border: 1px solid #e5e5e5;
+    position: relative;
+}
+
+footer#fp-footer h3 {
+    font-size: 0.8em;
+    font-family: monospace;
+    font-weight: normal;
+    text-align: right;
+}
+
+footer#fp-footer h3:hover {
+    color: #369;
+}

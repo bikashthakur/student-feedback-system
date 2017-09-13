@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteRule ^home?$ index.php
+RewriteRule ^feedback?$ getfeedback.php
+RewriteRule ^feedback-report?$ reports.php
+RewriteRule ^feedback-success?$ feedback.success.php
